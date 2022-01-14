@@ -1,4 +1,4 @@
-# code-standard
+# Nigriv Code Standard
 
 Main idea about project is: what should I do to make biggest change in production?
 Use this everytime you need to decide what to do next.
